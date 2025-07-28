@@ -205,8 +205,8 @@ Zeigt den aktuellen Zustand deines Kanban-Boards an, einschließlich aller Aufga
     TODO
       ID-aaeec3  Dokumentation für KanbanX schreiben
           NOTE  "Heute noch erledigen"
-            ○ ID-db6e83  "Gemini's aufgaben"
-            ○ ID-bd4f83  "Meine Aufgaben"
+            ○ ID-db6e83  "Gemini CLI Aufgaben"
+            ○ ID-bd4f83  "User Aufgaben"
           CLIP  "D:\Second-Brain\04_Archive\kanbanx\kanbanx_user_manual.md"
 
     DOING

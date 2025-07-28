@@ -42,7 +42,7 @@ KanbanX benötigt lediglich eine installierte **Python 3**-Umgebung.
     *   Du kannst sie direkt von der Quelle kopieren oder mit `curl` herunterladen, falls verfügbar.
     ```bash
     # Beispiel: Herunterladen in dein aktuelles Verzeichnis
-    # curl -O https://raw.githubusercontent.com/dein_repo/kanbanx.py
+    # curl -O https://raw.githubusercontent.com/DonDmGeR/kanbanx.py
     ```
 2.  **Ausführen:** Öffne ein Terminal oder eine Kommandozeile, navigiere in das Verzeichnis, in dem sich `kanbanx.py` befindet, und führe das Skript aus.
     ```bash

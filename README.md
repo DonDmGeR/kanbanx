@@ -1,4 +1,5 @@
-![KanbanX Logo](logo.png) <!-- Placeholder-Bild, kann später ersetzt werden --># KanbanX – Dein schlankes CLI-Kanban-Board 
+![KanbanX Logo](logo.png) <!-- Placeholder-Bild, kann später ersetzt werden -->
+# KanbanX – Dein schlankes CLI-Kanban-Board 
 
 
 

@@ -1,6 +1,6 @@
-# KanbanX – Dein schlankes CLI-Kanban-Board
+# KanbanX – Dein schlankes CLI-Kanban-Board ![KanbanX Logo](logo.png) <!-- Placeholder-Bild, kann später ersetzt werden -->
 
-![KanbanX Logo](logo.png) <!-- Placeholder-Bild, kann später ersetzt werden -->
+
 
 ## Inhaltsverzeichnis
 1.  [Einführung](#1-einführung)
